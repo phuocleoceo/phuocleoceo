@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone👋
+Welcome to my Github 😄
+But I'm sorry, because my new Code are important 
+so they're privated 🤔
 
 <!--
 **phuocleoceo/phuocleoceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
