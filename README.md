@@ -7,11 +7,11 @@ so they're privated 🤔
 
 ![PhuocLeoCeo](https://tintuctuyensinh.vn/wp-content/uploads/2020/10/ma-nganh-dai-hoc-bach-khoa-da-nang-1.jpg "PhuocLeoCeo")
 
-:computer: _IT Student at [DUT](http://dut.udn.vn/)_ :desert_island:Living in DaNang :brazil:
+:computer: _IT Student at [DUT](http://dut.udn.vn/)_ :desert_island:Living in DaNang :vietnam:
 
 ### My Tech Stack
 
-![C#](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -27,6 +27,7 @@ so they're privated 🤔
 
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -34,6 +35,7 @@ so they're privated 🤔
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-007ACC?style=flat-square&logo=sublime-text&logoColor=orange)
 
 ---
 ⭐️ From [PhuocLeoCeo](https://github.com/phuocleoceo)
