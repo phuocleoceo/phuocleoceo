@@ -5,7 +5,7 @@ Welcome to my Github 😄
 But I'm sorry, because my new Code are important 
 so they're privated 🤔
 
-![Gaboso](https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/87551951_534646137176656_6420289943544791040_n.jpg?_nc_cat=111&ccb=3&_nc_sid=174925&_nc_ohc=dl5CzTOpGCMAX9xtG6g&_nc_ht=scontent.fdad3-3.fna&oh=f63b42416ab0c432341059a1824b695b&oe=604D25B9 "PhuocLeoCeo")
+![PhuocLeoCeo](https://tintuctuyensinh.vn/wp-content/uploads/2020/10/ma-nganh-dai-hoc-bach-khoa-da-nang-1.jpg"PhuocLeoCeo")
 
 :computer: _IT Student at [DUT](http://dut.udn.vn/)_ :desert_island:Living in DaNang :brazil:
 
