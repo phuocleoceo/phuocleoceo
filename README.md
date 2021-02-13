@@ -1,20 +1,39 @@
 ![](https://komarev.com/ghpvc/?username=phuocleoceo&color=green&style=flat-square&label=Profile+Viewers)
-### Hi everyone👋
+
+## Hi everyone, I'm Phuoc 
 Welcome to my Github 😄
 But I'm sorry, because my new Code are important 
 so they're privated 🤔
 
-<!--
-**phuocleoceo/phuocleoceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gaboso](https://scontent.fdad3-3.fna.fbcdn.net/v/t1.0-9/87551951_534646137176656_6420289943544791040_n.jpg?_nc_cat=111&ccb=3&_nc_sid=174925&_nc_ohc=dl5CzTOpGCMAX9xtG6g&_nc_ht=scontent.fdad3-3.fna&oh=f63b42416ab0c432341059a1824b695b&oe=604D25B9 "PhuocLeoCeo")
 
-Here are some ideas to get you started:
+:computer: _IT Student at [DUT](http://dut.udn.vn/)_ :desert_island:Living in DaNang :brazil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack
+
+![C#](https://img.shields.io/badge/-CSharp-blue?style=flat-square&logo=c-sharp)
+![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+#### Backend
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.NET)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+#### Database
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+---
+⭐️ From [PhuocLeoCeo](https://github.com/phuocleoceo)
