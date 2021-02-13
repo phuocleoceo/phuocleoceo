@@ -1,7 +1,4 @@
-![](https://komarev.com/ghpvc/?username=phuocleoceo)
-![](https://komarev.com/ghpvc/?username=phuocleoceo&color=green)
-![](https://komarev.com/ghpvc/?username=phuocleoceo&style=flat-square)
-![](https://komarev.com/ghpvc/?username=phuocleoceo&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=phuocleoceo&color=green&style=flat-square&label=Profile+Viewers)
 ### Hi everyone👋
 Welcome to my Github 😄
 But I'm sorry, because my new Code are important 
