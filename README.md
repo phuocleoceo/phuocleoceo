@@ -4,7 +4,7 @@
 Welcome to my Github 😄
 
 <p align="center">
-<a href="https://www.facebook.com/ginmaitien">
+<a href="https://www.facebook.com/ginmaitien" title="MaiTienDUT">
  <img src="https://raw.githubusercontent.com/phuocleoceo/phuocleoceo/master/background.jpg" 
  alt="Logo" width= 100%>
 </a>
@@ -40,7 +40,9 @@ Welcome to my Github 😄
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-007ACC?style=flat-square&logo=sublime-text&logoColor=orange)
 
-[![PLC GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocleoceo)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+![PLC GitHub stats](https://github-readme-stats.vercel.app/api?username=phuocleoceo&count_private=true&show_icons=true&theme=radical)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocleoceo&layout=compact&theme=radical)
 ---
 ⭐️ From [PhuocLeoCeo](https://github.com/phuocleoceo)
