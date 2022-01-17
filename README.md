@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=phuocleoceo&color=green&style=flat-square&label=Profile+Viewers)
-
 ## Welcome to my Github 😄, I'm Phuoc 😘
 
 
@@ -25,14 +23,16 @@
 	<h4>My Tech Stack</h4>
 	<img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp"/>
 	<img src="https://img.shields.io/badge/-C-red?style=flat-square&logo=c"/>
-	<img src="https://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c%2B%2B"/>
+	<img src="https://img.shields.io/badge/-C++-green?style=flat-square&logo=c%2B%2B"/>
+	<br>
+	<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/>
 	<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
 	<h4>Frontend</h4>
 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
 	<img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"/>
 	<h4>Backend</h4>
-	<img src="https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.NET"/>
+	<img src="https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.NET"/>	
 	<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 	<h4>Database</h4>
 	<img src="http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff"/>
