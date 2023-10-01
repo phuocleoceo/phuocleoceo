@@ -1,14 +1,24 @@
 ## Welcome to my Github 😄, I'm Phuoc 😘
 
+I'm a :computer: \_Software Developer :desert_island:Living in DaNang :vietnam:
 
-<p align="center">
-<a href="https://www.facebook.com/ginmaitien" title="MaiTienDUT">
- <img src="https://raw.githubusercontent.com/phuocleoceo/phuocleoceo/master/background.jpg" 
- alt="Logo" width= 100%>
+<div>
+<a href="https://www.linkedin.com/in/phuoc-truong-minh" title="linkedin">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
-:computer: _IT Student at [DUT](http://dut.udn.vn/)_ :desert_island:Living in DaNang :vietnam:
+<a href="mailto:phuoc.truong.1008@gmail.com" title="gmail">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/phuocleoceo" title="facebook">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/phuocleoceo" title="instagram">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
 
 <hr/>
 <table align="center">
