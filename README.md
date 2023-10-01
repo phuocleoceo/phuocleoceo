@@ -1,6 +1,6 @@
 ## Welcome to my Github 😄, I'm Phuoc 😘
 
-I'm a :computer: \_Software Developer :desert_island:Living in DaNang :vietnam:
+I'm a :computer: <i>Software Developer</i> :desert_island:Living in <i>Da Nang</i> :vietnam:
 
 <div>
 <a href="https://www.linkedin.com/in/phuoc-truong-minh" title="linkedin">
@@ -32,7 +32,7 @@ I'm a :computer: \_Software Developer :desert_island:Living in DaNang :vietnam:
  <td align="center">
 	<h4>My Tech Stack</h4>
 	<img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp"/>
-	<img src="https://img.shields.io/badge/-C-red?style=flat-square&logo=c"/>
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-C++-green?style=flat-square&logo=c%2B%2B"/>
 	<br>
 	<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/>
@@ -42,18 +42,23 @@ I'm a :computer: \_Software Developer :desert_island:Living in DaNang :vietnam:
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"/>
 	<img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react"/>
 	<h4>Backend</h4>
-	<img src="https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.NET"/>	
-	<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+	<img src="https://img.shields.io/badge/-ASP.NET-blue?style=flat-square&logo=.NET"/>
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 	<h4>Database</h4>
-	<img src="http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+	<br>
 	<img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/>
+	<img src="http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff"/>
 	<h4>Others</h4>
 	<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
 	<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
 	<img src="https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio"/>
-  <br/><br/>
+  <br/>
 	<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
-	<img src="https://img.shields.io/badge/-Sublime%20Text%203-007ACC?style=flat-square&logo=sublime-text&logoColor=orange"/>
+	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
 	</td>
  
 </tr>
